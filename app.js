@@ -73,6 +73,7 @@ function info(id){
     });
 }
 
+//function to display new info if user selects different option
 function changeEvent(id){
     info(id);
     plot(id);
